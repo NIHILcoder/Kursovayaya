@@ -1,0 +1,49 @@
+Backend
+https://github.com/example/auth-plugin
+AuthPlugin
+256
+15 3 2023
+5
+CrossPlatform
+Frontend
+https://gitlab.com/ui/react-component
+ReactComponent
+128
+20 6 2024
+3
+Windows
+Mobile
+https://github.com/mobile/android-sdk
+AndroidSDK
+512
+10 1 2024
+12
+CrossPlatform
+DevOps
+https://github.com/devops/ci-tool
+CITool
+64
+5 12 2022
+2
+Linux
+DataScience
+https://github.com/ml/tensorflow-plugin
+TensorFlowPlugin
+1024
+1 9 2023
+8
+CrossPlatform
+Backend
+https://github.com/example/db-connector
+DBConnector
+192
+15 3 2023
+4
+Linux
+Frontend
+https://github.com/ui/vue-widget
+VueWidget
+96
+25 4 2024
+2
+CrossPlatform

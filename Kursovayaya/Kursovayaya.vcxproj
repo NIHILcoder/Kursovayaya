@@ -129,7 +129,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Kursovayaya.c" />
+    <ClCompile Include="io.c" />
+    <ClCompile Include="main.c" />
+    <ClCompile Include="repository_db.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="repository.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="README.md" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="data.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
